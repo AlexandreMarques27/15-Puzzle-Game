@@ -1,5 +1,5 @@
 
-# AlphaZero
+# 15 Puzzle Game
 Assignment for Laboratory of Artificial Intelligence Class, 2º Year,2º Semester, Bachelor in Artificial Intelligence and Data Science Project 2 – Use different algorithms to solve the 15 puzzle game
 
 # Summary
