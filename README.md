@@ -7,7 +7,7 @@ Assignment for Laboratory of Artificial Intelligence Class, 2º Year,2º Semeste
 In this project we implemented a simple interface so we can play the game and some algorithms and heuristics to be able to get to the solution in the minimum number os steps required.
 
 
-**Autores**:
+**Autors**:
 - [Alexandre Marques](https://github.com/AlexandreMarques27)
 - [Miguel Silva]
 - [Rui Coelho]
